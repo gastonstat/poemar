@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            poemar.io
+tagline:          'poemar.io'
+description:      'Fragmentos improbables arrebatados de las garras del olvido'
+url:              http://gastonsanchez.com/poemar
+baseurl:          http://gastonsanchez.com/poemar
+
+author:
+  name:           'Gaston Sanchez'
+  url:            http://gastonsanchez.com
+
+paginate:         5
+
+# Custom vars
+version:          2000 - 2016
+
+github:
+  repo:           https://github.com/gastonstat/poemar
