@@ -38,7 +38,7 @@ con una Biblia entre sus manos<br>
 -¿pasa algo malo hija mía?<br>
 pero tus ojos no le miran,<br>
 con una gran nudo en la garganta<br>
-estás temblando, estás llorando
+estás temblando, estás llorando.
 
 Ya las campanas han callado<br>
 Suspiras hondo, muerdes tus labios<br>
