@@ -48,7 +48,7 @@ build_index <- function(poems) {
 # Building index.html
 # ===============================================================
 
-setwd('~/Dropbox/poemar')
+#setwd('~/Dropbox/poemar')
 all_files <- dir('io')
 poems <- grep('*.md', all_files, value = TRUE)
 
